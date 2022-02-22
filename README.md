@@ -1,7 +1,7 @@
 # Sistema Solar Fotovoltaico
 
-Atividade desenvolvida para a disciplina de Sistema Fotovoltaico, pelo aluno Jocelio Jairo Vieira Filho.
+Atividade desenvolvida para a disciplina de Sistema Fotovoltaico, pelo aluno Jocelio Vieira.
 
 Dimensionamento sistema solar fotovoltaico on-grid e off-grid.
 
-Para acessar cada dimensionamento, basta selecionar o arquivo .ipynb acima.
+Para acessar cada dimensionamento, basta selecionar os arquivos .ipynb na pasta /Sistemas_FV.
