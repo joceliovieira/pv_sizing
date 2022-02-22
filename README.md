@@ -4,4 +4,4 @@ Atividade desenvolvida para a disciplina de Sistema Fotovoltaico, pelo aluno Joc
 
 Dimensionamento sistema solar fotovoltaico on-grid e off-grid.
 
-Para acessar cada dimensionamento, basta selecionar os arquivos .ipynb na pasta /Sistemas_FV.
+Para acessar cada dimensionamento, basta selecionar os arquivos .ipynb na pasta /nb_dimensionamentos.
